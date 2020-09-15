@@ -32,4 +32,4 @@ Gmail: sureiyahigo@gmail.com
 
 
 
-© Sureiya Higoroshi
+© Sureiya
