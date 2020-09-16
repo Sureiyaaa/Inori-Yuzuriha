@@ -1,6 +1,4 @@
 # Inori Yuzuriha
-(July 14 2018)
-**Version 3.5.6**
 
 ![moe-196165-guilty_crown-hinasaki-yuzuriha_inori](https://user-images.githubusercontent.com/46262050/65892875-96dd3a80-e3d9-11e9-8d49-e6b125cc0d63.jpg)
 
